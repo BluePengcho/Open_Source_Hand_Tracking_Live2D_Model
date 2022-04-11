@@ -10,7 +10,7 @@ This is not intended to be a guide on how to rig/model hands for Live2D but more
 
 If you are looking for a guide on hand rigging I recommend :-
 
-* [[HOW TO: Live2d] Hands tracking for Vtube Studio](https://www.youtube.com/watch?v=oqdIBafz6i8) YouTube guide by YoshinoArt 
+* [[HOW TO: Live2d] Hands tracking for Vtube Studio](https://www.youtube.com/watch?v=oqdIBafz6i8) guide on YouTube by YoshinoArt 
 
 
 If you are looking for software to use hand tracking with VTubeStudio I recommend checking out:-
