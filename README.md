@@ -20,7 +20,7 @@ If you are looking for software to use hand tracking with VTubeStudio I recommen
 
 * [VTubeStudios built in hand tracking](https://github.com/DenchiSoft/VTubeStudio/wiki/Hand-Tracking) (only hand tracking)  
 
-**For Use with VTubeStudio**
+**For use with VTubeStudio**
 ------
 * For convenience download and extract the **Skeleton_Model.zip** file   
 * Please copy/place the Skeleton_Model folder into the Live2DModels VTubeStudio folder:-
