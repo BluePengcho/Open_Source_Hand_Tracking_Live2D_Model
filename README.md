@@ -1,7 +1,7 @@
 # Open Source Hand Tracking Live2D Model
 A basic live2D model which is rigged for arm and hand tracking. 
 
-This model is open source, the model and any parts of it can be used, copied and edited. No credit is necessary.
+This model is open source the model and any parts of it can be used, copied and edited. No credit is necessary.
 
 <img src="https://github.com/BluePengcho/Open_Source_Hand_Tracking_Live2D_Model/blob/main/Reference_Images/Skeleton.png" width="40%" height="40%">
 
