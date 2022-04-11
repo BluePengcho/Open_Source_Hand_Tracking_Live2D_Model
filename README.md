@@ -26,7 +26,7 @@ If you are looking for software to use hand tracking with VtubeStudio I recomend
 * Please copy/place the Skeleton_Model folder into the Live2DModels VTubeStudio folder:-
    *  <VtubeStudio.exe-Path>\VTube Studio_Data\StreamingAssets\Live2DModels (for Windows) 
    
-* The output value paramater values might need to be change in VtubeStudio (please see the Parameter Values tables bellow for the values to use)  
+* The output value paramater values might need to be change in VtubeStudio, please see the Parameter Values tables bellow for the values to use.  
    
 * The model also has the folowing extra custome peramaters not used by the defult VTubeStudio, an external VtubeStudio pluggin is needed to use them:-
    * LeftUpperArmRotation
