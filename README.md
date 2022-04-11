@@ -18,7 +18,7 @@ If you are looking for software to use hand tracking with VTubeStudio I recommen
 * **Leap Motion To VTube Studio** by LuaLucky for use with a Leap Motion Controller 
     * [Source Code](https://github.com/lualucky/LeapMotionToVTubeStudio) and [Alpha Version](https://lualucky.itch.io/leapmotion-to-vtube-studio-plugin) (only hand tracking) 
 
-* [VTubeStudios built in hand tracking](https://github.com/DenchiSoft/VTubeStudio/wiki/Hand-Tracking) (only hand tracking)  
+* [VTubeStudio's built in hand tracking](https://github.com/DenchiSoft/VTubeStudio/wiki/Hand-Tracking) (only hand tracking)  
 
 **For use with VTubeStudio**
 ------
