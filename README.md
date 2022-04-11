@@ -4,18 +4,20 @@ An open source live2D basic model rigged for arm and hand tracking
 <img src="https://github.com/BluePengcho/Open_Source_Hand_Tracking_Live2D_Model/blob/main/Reference_Images/Skeleton.png" width="40%" height="40%">
 
 
-This is not inteded to be a guide on how to rig/model hands for Live2d but more for expermintation with motion tracking and Live2D.
+This is not inteded to be a guide on how to rig/model hands for Live2D but more for expermintation with motion tracking and Live2D.
 
 If you are looking for a guide on hand riging I recomend :-
 
-【HOW TO: Live2d】 Hands tracking for Vtube Studio video guide by YoshinoArt https://www.youtube.com/watch?v=oqdIBafz6i8
+* [[HOW TO: Live2d] Hands tracking for Vtube Studio](https://www.youtube.com/watch?v=oqdIBafz6i8) Youtube guide by YoshinoArt 
 
 
 If you are looking for software to use hand tracking with VtubeStudio I recomend checking out:-
 
-Leap Motion To VTube Studio by LuaLucky for use with a Leap Motion Controller (arm and hand tracking) https://github.com/lualucky/LeapMotionToVTubeStudio
+* **Leap Motion To VTube Studio** by LuaLucky for use with a Leap Motion Controller 
+    * [Source Code](https://github.com/lualucky/LeapMotionToVTubeStudio) (arm and hand tracking) 
+    * [Alpha Version](https://lualucky.itch.io/leapmotion-to-vtube-studio-plugin) (only hand tracking) 
 
-VtubeStudios built in hand tracking (only hand tracking) https://github.com/DenchiSoft/VTubeStudio/wiki/Hand-Tracking  
+* [VtubeStudios built in hand tracking](https://github.com/DenchiSoft/VTubeStudio/wiki/Hand-Tracking) (only hand tracking)  
 
 
 **Parameter Reference Images**
