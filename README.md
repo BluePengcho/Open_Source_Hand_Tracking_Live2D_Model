@@ -5,7 +5,6 @@ This model is open source the model and any parts of it can be used, copied and 
 
 <img src="https://github.com/BluePengcho/Open_Source_Hand_Tracking_Live2D_Model/blob/main/Reference_Images/Skeleton.png" width="40%" height="40%">
 
-
 This is not intended to be a guide on how to rig/model hands for Live2D but more for experimentation with motion tracking and Live2D.
 
 If you are looking for a guide on hand rigging I recommend :-
@@ -26,7 +25,7 @@ If you are looking for software to use hand tracking with VTubeStudio I recommen
 * Copy/place the Skeleton_Model folder into the Live2D Models VTubeStudio folder:-
    *  <VTubeStudio.exe-Path>\VTube Studio_Data\StreamingAssets\Live2DModels (for Windows) 
    
-* The output value parameter values might need to be changed in VTubeStudio, please see the parameter values tables below for the values to use.  
+* The output value parameter values might need to be changed in VTubeStudio, please see the parameter values tables below for the values to use  
    
 * The model also has the following extra custom parameters not used by default in VTubeStudio, an external VTubeStudio plugin is needed to use them:-
    * LeftUpperArmRotation
@@ -54,7 +53,7 @@ If you are looking for software to use hand tracking with VTubeStudio I recommen
 * This model has only 30 parameters and should open with Live2D Cubism Editor Free Version 
 * This model is rigged with arms and hands movement only, it does not have any other movement or facial expression rigging
 * Hands are only rigged with the Hand AngleX and Hand AngleZ movement. There is no Hand AngleY movement (plan to add this to future versions once I can  find/figure out how)
-* The hand rigging is very scuffed and was very much a learning experience. The methods used are probably not best practice. 
+* The hand rigging is very scuffed and was very much a learning experience. The methods used are probably not best practice 
 * Future versions plan to improve and rework the hand rigging for greater range of movement and finger positioning     
 
 **Parameter Reference Images**
