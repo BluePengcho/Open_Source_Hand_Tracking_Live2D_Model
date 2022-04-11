@@ -6,29 +6,29 @@ This model is open source, the model and any parts of it can be used, copied and
 <img src="https://github.com/BluePengcho/Open_Source_Hand_Tracking_Live2D_Model/blob/main/Reference_Images/Skeleton.png" width="40%" height="40%">
 
 
-This is not inteded to be a guide on how to rig/model hands for Live2D but more for expermintation with motion tracking and Live2D.
+This is not intended to be a guide on how to rig/model hands for Live2D but more for experimentation with motion tracking and Live2D.
 
-If you are looking for a guide on hand riging I recomend :-
+If you are looking for a guide on hand rigging I recommend :-
 
-* [[HOW TO: Live2d] Hands tracking for Vtube Studio](https://www.youtube.com/watch?v=oqdIBafz6i8) Youtube guide by YoshinoArt 
+* [[HOW TO: Live2d] Hands tracking for Vtube Studio](https://www.youtube.com/watch?v=oqdIBafz6i8) YouTube guide by YoshinoArt 
 
 
-If you are looking for software to use hand tracking with VtubeStudio I recomend checking out:-
+If you are looking for software to use hand tracking with VTubeStudio I recommend checking out:-
 
 * **Leap Motion To VTube Studio** by LuaLucky for use with a Leap Motion Controller 
     * [Source Code](https://github.com/lualucky/LeapMotionToVTubeStudio) and [Alpha Version](https://lualucky.itch.io/leapmotion-to-vtube-studio-plugin) (only hand tracking) 
 
-* [VtubeStudios built in hand tracking](https://github.com/DenchiSoft/VTubeStudio/wiki/Hand-Tracking) (only hand tracking)  
+* [VTubeStudios built in hand tracking](https://github.com/DenchiSoft/VTubeStudio/wiki/Hand-Tracking) (only hand tracking)  
 
-**For Use with VtubeStudio**
+**For Use with VTubeStudio**
 ------
-* For convenance download and extract the **Skeleton_Model.zip** file   
+* For convenience download and extract the **Skeleton_Model.zip** file   
 * Please copy/place the Skeleton_Model folder into the Live2DModels VTubeStudio folder:-
    *  <VtubeStudio.exe-Path>\VTube Studio_Data\StreamingAssets\Live2DModels (for Windows) 
    
-* The output value paramater values might need to be change in VtubeStudio, please see the Parameter Values tables bellow for the values to use.  
+* The output value parameter values might need to be change in VTubeStudio, please see the Parameter Values tables bellow for the values to use.  
    
-* The model also has the folowing extra custome peramaters not used by defult in VTubeStudio, an external VtubeStudio pluggin is needed to use them:-
+* The model also has the following extra custom parameters not used by default in VTubeStudio, an external VtubeStudio plugin is needed to use them:-
    * LeftUpperArmRotation
    * LeftForearmRotation
    * LeftUpperArmExtend
@@ -38,29 +38,29 @@ If you are looking for software to use hand tracking with VtubeStudio I recomend
    * RightUpperArmExtend
    * RightForearmExtend
    
- * For the folowing peramaters in VtubeStudio the Smoothing Value will need to be set to Zero:-
+ * For the following parameters in VTubeStudio the Smoothing Value will need to be set to Zero:-
    * HandRightAngleX
    * HandLeftAngleX
    * RightForearmRotation
    * LeftForearmRotation
 
-   This is necessary as VTubeStudio smoothes between a linear range e.g. 0 to 360 instead of a looping range which results in the peramaters values quicky jumping back on itself and consequently a jerky motion, recommend adding smoothing code to any extenal plugins for these peramaters.  
+   This is necessary as VTubeStudio smoothes between a linear range e.g. 0 to 360 instead of a looping range which results in the parameters values quickly jumping back on itself and a consequent jerky motion, recommend adding smoothing code to any external VTubeStudio plugin for these parameters.  
 
 
 
 **Notes**
 ------
 
-* This model has only 30 Paramaters and should be able to be opened with Live2D Cubism Editor Free Version 
-* This model is rigged with arms and hands movement only, it does not have any other movment or facial expresion rigging
+* This model has only 30 parameters and should be able to be opened with Live2D Cubism Editor Free Version 
+* This model is rigged with arms and hands movement only, it does not have any other movement or facial expression rigging
 * Hands are only rigged with the Hand AngleX and Hand AngleZ movement. There is no Hand AngleY movement (plan to add this to future version once I can  find/figure out how)
   
-* The hand rigging is very skuffed and was very much a learning experiance. The methods used are probably not best practice. 
+* The hand rigging is very scuffed and was very much a learning experiance. The methods used are probably not best practice. 
 * Future version plan to improve and rework the hand rigging for greater range of movement and finger positioning     
 
 **Parameter Reference Images**
 ------
-Please use these images for reference of the motions and relevent paramter valeus 
+Please use these images for reference of the motions and relevant parameter values 
 
 <img src="https://github.com/BluePengcho/Open_Source_Hand_Tracking_Live2D_Model/blob/main/Reference_Images/Live2D_Upper_Arm_Rotation.png" width="40%" height="40%">
 
