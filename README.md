@@ -22,10 +22,11 @@ If you are looking for software to use hand tracking with VtubeStudio I recomend
 
 **For Use with VtubeStudio**
 ------
-* To use the model in VtubeStudio please copy the Skell_Model folder into the VtubeStudio folder:-
+* For convenance you can download the Skeleton_Model.zip file and extract   
+* Please copy/place the Skeleton_Model folder into the VtubeStudio folder:-
    *  <VtubeStudio.exe-Path>\VTube Studio_Data\StreamingAssets\Live2DModels (for Windows) 
    
-* The output value paramater values will need to be change in VtubeStudio (please see the Parameter Values tables bellow for the values to use)  
+* The output value paramater values will probably need to be change in VtubeStudio (please see the Parameter Values tables bellow for the values to use)  
    
 * To use the folowing peramaters an external VtubeStudio pluggin will need to create the custome paramters for use within VtubeStudio:-
    * LeftUpperArmRotation
