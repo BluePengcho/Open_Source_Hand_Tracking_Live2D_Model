@@ -22,7 +22,7 @@ If you are looking for software to use hand tracking with VtubeStudio I recomend
 
 **For Use with VtubeStudio**
 ------
-* For convenance download the Skeleton_Model.zip file and extract   
+* For convenance download the **Skeleton_Model.zip** file and extract   
 * Please copy/place the Skeleton_Model folder into the Live2DModels VTubeStudio folder:-
    *  <VtubeStudio.exe-Path>\VTube Studio_Data\StreamingAssets\Live2DModels (for Windows) 
    
