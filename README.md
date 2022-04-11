@@ -22,6 +22,38 @@ If you are looking for software to use hand tracking with VtubeStudio I recomend
 * [VtubeStudios built in hand tracking](https://github.com/DenchiSoft/VTubeStudio/wiki/Hand-Tracking) (only hand tracking)  
 
 
+Notes:-
+
+* This model has only 30 Paramaters and should be able to be opened with Live2D Cubism Editor Free Version 
+* This model is rigged with arms and hands movement only, it does not have any other movment or facial expresion rigging
+* Hands are only rigged with the Hand AngleX and Hand AngleZ movement. There is no Hand AngleY movement (plan to add this to future version once I can  find/figure out how)
+
+* To use the model in VtubeStudio please copy the Skell_Model folder into the VtubeStudio folder:-
+   *  <VtubeStudio.exe-Path>\VTube Studio_Data\StreamingAssets\Live2DModels (for Windows) 
+   
+* The output value paramater values will need to be change in VtubeStudio (please see the Parameter Values tables bellow for the values to use)  
+   
+* For the folowing peramaters an external VtubeStudio pluggin will need to create the custome paramters for use within VtubeStudio:-
+   * LeftUpperArmRotation
+   * LeftForearmRotation
+   * LeftUpperArmExtend
+   * LeftForearmExtend
+   * RightUpperArmRotation
+   * RightForearmRotation
+   * RightUpperArmExtend
+   * RightForearmExtend
+   
+ * For the folowing peramaters in VtubeStudio the Smoothing Value will need to be set to Zero:-
+   * HandRightAngleX
+   * HandLeftAngleX
+   * RightForearmRotation
+   * LeftForearmRotation
+
+   This is necessary as VTubeStudio smoothes between a linear range e.g. 0 to 360 instead of a looping range which results in the peramaters values quicky jumping back on itself and consequently a jerky motion, recommend adding smoothing code to any extenal plugins for these peramaters.  
+   
+* The hand rigging is very skuffed and was very much a learning experiance. The methods used are probably not best practice. 
+* For future version plan to rework the hand rigging for greater range of movement and finger positioning     
+
 **Parameter Reference Images**
 ------
 
