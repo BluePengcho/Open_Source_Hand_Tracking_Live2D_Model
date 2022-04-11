@@ -1,7 +1,24 @@
 # Open Source Hand Tracking Live2D Model
 An open source live2D basic model rigged for arm and hand tracking
 
+<img src="https://github.com/BluePengcho/Open_Source_Hand_Tracking_Live2D_Model/blob/main/Reference_Images/Skeleton.png" width="40%" height="40%">
 
+**Parameter Reference Images**
+------
+
+<img src="https://github.com/BluePengcho/Open_Source_Hand_Tracking_Live2D_Model/blob/main/Reference_Images/Live2D_Upper_Arm_Rotation.png" width="50%" height="50%">
+
+<img src="https://github.com/BluePengcho/Open_Source_Hand_Tracking_Live2D_Model/blob/main/Reference_Images/Live2D_Forearm_Rotation.png" width="50%" height="50%">
+
+<img src="https://github.com/BluePengcho/Open_Source_Hand_Tracking_Live2D_Model/blob/main/Reference_Images/Live2d_Upper_Arm_Extension.png" width="50%" height="50%">
+
+<img src="https://github.com/BluePengcho/Open_Source_Hand_Tracking_Live2D_Model/blob/main/Reference_Images/Live2D_Forearm_Extension.png" width="50%" height="50%">
+
+<img src="https://github.com/BluePengcho/Open_Source_Hand_Tracking_Live2D_Model/blob/main/Reference_Images/Live2D_Hand_Rotation_AngleX.png" width="50%" height="50%">
+
+<img src="https://github.com/BluePengcho/Open_Source_Hand_Tracking_Live2D_Model/blob/main/Reference_Images/Live2D_Hand_Rotation_AngleZ.png" width="50%" height="50%">
+
+<img src="https://github.com/BluePengcho/Open_Source_Hand_Tracking_Live2D_Model/blob/main/Reference_Images/Live2D_Finger_Rotation.png" width="50%" height="50%">
 
 **Left Arm Parameter Values**
 ------
