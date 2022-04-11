@@ -16,8 +16,7 @@ If you are looking for a guide on hand riging I recomend :-
 If you are looking for software to use hand tracking with VtubeStudio I recomend checking out:-
 
 * **Leap Motion To VTube Studio** by LuaLucky for use with a Leap Motion Controller 
-    * [Source Code](https://github.com/lualucky/LeapMotionToVTubeStudio) (arm and hand tracking) 
-    * [Alpha Version](https://lualucky.itch.io/leapmotion-to-vtube-studio-plugin) (only hand tracking) 
+    * [Source Code](https://github.com/lualucky/LeapMotionToVTubeStudio) and [Alpha Version](https://lualucky.itch.io/leapmotion-to-vtube-studio-plugin) (only hand tracking) 
 
 * [VtubeStudios built in hand tracking](https://github.com/DenchiSoft/VTubeStudio/wiki/Hand-Tracking) (only hand tracking)  
 
