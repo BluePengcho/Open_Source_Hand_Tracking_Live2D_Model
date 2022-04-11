@@ -28,7 +28,7 @@ If you are looking for software to use hand tracking with VtubeStudio I recomend
    
 * The output value paramater values might need to be change in VtubeStudio, please see the Parameter Values tables bellow for the values to use.  
    
-* The model also has the folowing extra custome peramaters not used by the defult VTubeStudio, an external VtubeStudio pluggin is needed to use them:-
+* The model also has the folowing extra custome peramaters not used by defult in VTubeStudio, an external VtubeStudio pluggin is needed to use them:-
    * LeftUpperArmRotation
    * LeftForearmRotation
    * LeftUpperArmExtend
