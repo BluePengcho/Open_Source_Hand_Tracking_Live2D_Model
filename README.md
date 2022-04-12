@@ -52,7 +52,7 @@ If you are looking for software to use hand tracking with VTubeStudio I recommen
 
 * This model has only 30 parameters and should open with Live2D Cubism Editor Free Version 
 * The model is rigged with arms and hands movement only, it does not have any other movement or facial expression rigging
-* Hands are only rigged with the Hand AngleX and Hand AngleZ movement. There is no Hand AngleY movement (plan to add this to future versions once I can  find/figure out how)
+* Hands are only rigged with the Hand AngleX and Hand AngleZ movement. There is no Hand AngleY movement (plan to add this to future versions once I can  figure out how)
 * The hand rigging is very scuffed and was very much a learning experience. The methods used are probably not best practice 
 * Future versions plan to improve and rework the hand rigging for greater range of movement and finger positioning     
 
