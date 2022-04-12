@@ -1,5 +1,5 @@
 # Open Source Hand Tracking Live2D Model
-A basic Live2D model which is rigged for arm and hand tracking. 
+A very basic Live2D model which is rigged for arm and hand tracking. 
 
 This model is open source the model and any parts of it can be freely used, copied and edited. No credit is necessary.
 
