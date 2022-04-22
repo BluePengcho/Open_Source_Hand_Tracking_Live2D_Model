@@ -91,8 +91,8 @@ Please use these images for reference of the motions and relevant parameter valu
 |HandLeftRotation_5_Pinky|    -1|  0|  1|
 |LeftUpperArmRotation|       -30|  0| 30|
 |LeftForearmRotation |       -30|  0| 30|
-|LeftUpperArmExtend |          0|  0| 30|
-|LeftForearmExtend |           0|  0| 30|
+|LeftUpperArmExtend |          0|  1|  1|
+|LeftForearmExtend |           0|  1|  1|
 
 **Right Arm Parameter Values**
 ------
@@ -112,5 +112,5 @@ Please use these images for reference of the motions and relevant parameter valu
 |HandRightRotation_5_Pinky|    -1|  0|  1|
 |RightUpperArmRotation|       -30|  0| 30|
 |RightForearmRotation |       -30|  0| 30|
-|RightUpperArmExtend |          0|  0| 30|
-|RightForearmExtend |           0|  0| 30|
+|RightUpperArmExtend |          0|  1|  1|
+|RightForearmExtend |           0|  1|  1|
